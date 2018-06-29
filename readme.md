@@ -16,11 +16,17 @@ Yamagata uses the following 3rd party libraries:
 - See docs over at [React Native](https://facebook.github.io/react-native/docs) for setting up your project
 
 `$ npm install`
+
 `$ cd yamagata`
+
 And then depending on what you want to do
+
 `$ react-native run-ios`
+
 or
+
 `$ react-native run-android`
+
 or start up the project another way. See [getting started](https://facebook.github.io/react-native/docs/getting-started) for more details.
 
 ## Contributing
