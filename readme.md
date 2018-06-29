@@ -28,4 +28,6 @@ Please make sure to update tests as appropriate.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[Make a README](https://www.makeareadme.com/)
+## Thank You
+
+Readme.md was made with inspiration from [Make a README](https://www.makeareadme.com/)
