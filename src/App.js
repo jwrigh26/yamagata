@@ -15,6 +15,10 @@
 import React, { Component } from 'react';
 import { Text, StyleSheet, View } from 'react-native';
 
+import { bootstrap } from './config/bootstrap';
+
+bootstrap();
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
